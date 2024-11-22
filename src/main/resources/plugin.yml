@@ -1,0 +1,5 @@
+name: MilkHunger
+version: 1.0
+main: kevlar.milkHunger.MilkHunger
+description: Restores hunger and saturation when milk is consumed.
+api-version: 1.20
